@@ -1,0 +1,50 @@
+[
+  {
+      "id": "1",
+      "title": "Estágio em Desenvolvimento Web",
+      "modalidade": "Presencial",
+      "description": "Trabalhe em projetos inovadores e aprenda com uma equipe experiente.",
+      "bolsa": "R$ 1.200,00",
+      "horario": "6 horas diárias",
+      "local": "São Paulo, SP",
+      "curso": "Ciência da Computação ou áreas afins",
+      "responsabilidades": "Criar e atualizar interfaces usando HTML, CSS e JavaScript, garantir que as páginas sejam compatíveis com dispositivos móveis (mobile-first).",
+      "requisitos": "Conhecimento básico em HTML, CSS e JavaScript"
+  },
+  {
+      "id": "2",
+      "title": "Estágio em Marketing Digital",
+      "modalidade": "Híbrido",
+      "description": "Participe de campanhas digitais e desenvolva suas habilidades de marketing.",
+      "bolsa": "R$ 1.000,00",
+      "horario": "4 horas diárias",
+      "local": "Rio de Janeiro, RJ",
+      "curso": "Marketing, Publicidade",
+      "responsabilidades": "Apoiar na criação e execução de campanhas de marketing digital em diversas plataformas (Google Ads, Facebook Ads, Instagram, etc.)",
+      "requisitos": "Conhecimento básico em ferramentas de marketing digital (Google Ads, Facebook Ads) e métricas de performance"
+  },
+  {
+      "id": "3",
+      "title": "Estágio em Design de UX/UI",
+      "modalidade": "Presencial",
+      "description": "Auxilie na criação de protótipos e designs para melhorar a experiência do usuário em plataformas digitais.",
+      "bolsa": "R$ 1.100,00",
+      "horario": "5 horas diárias",
+      "local": "Belo Horizonte, MG",
+      "curso": "Design Gráfico, Design de Interação",
+      "responsabilidades": "Auxiliar na criação de wireframes, protótipos e layouts para websites e aplicativos móveis",
+      "requisitos": "Conhecimento básico em ferramentas de design como Figma, Adobe XD ou Sketch"
+  },
+  {
+      "id": "4",
+      "title": "Estágio em Desenvolvimento Backend (Java)",
+      "modalidade": "Remoto",
+      "description": "apoie o desenvolvimento e manutenção de APIs RESTful em Java, além de colaborar na integração de sistemas e bancos de dados.",
+      "bolsa": "R$ 1.300,00",
+      "horario": "6 horas diárias",
+      "local": "Curitiba, PR",
+      "curso": "Análise e Desenvolvimento de Sistemas, Ciência da Computação ou áreas afins",
+      "responsabilidades": "Criar e atualizar interfaces usando HTML, CSS e JavaScript, garantir que as páginas sejam compatíveis com dispositivos móveis (mobile-first).",
+      "requisitos": "Conhecimento básico em Java, Noções de bancos de dados relacionais (MySQL, PostgreSQL), Boa capacidade de trabalho em equipe e comunicação"
+  }
+]

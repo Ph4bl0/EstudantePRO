@@ -1,0 +1,21 @@
+{
+    "name": "EstudandePRO - Ofertas de Estágio",
+    "short_name": "EstudantePRO",
+    "description": "Aplicativo de ofertas de estágio",
+    "start_url": "./",
+    "display": "standalone",  
+    "background_color": "#ffffff",
+    "theme_color": "#1f3b6c",  
+    "icons": [
+      {
+        "src": "icons/icons-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icons-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }

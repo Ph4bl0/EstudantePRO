@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="Manifest" href="Manifest.json">
+    <link rel="shortcut icon" href="img/icons8-chapéu-de-formatura-48.png" type="image/x-icon">
+    <title>EstudantePRO</title>
+</head>
+<body>
+    <div class="container">
+    <header>
+      <h1>EstudantePRO</h1>
+        
+      <div class="barra-nav">
+        <!-- <div class="menu-nav">
+          <button class="botao-menu">MENU</button>
+          <div class="menu">
+            <a href="#">Anunciar Vagas</a>
+            <a href="#">Cadastrar Currículo</a>
+            <a href="#">Sobre Nós</a>
+            
+          </div>
+        </div> -->
+
+        <div class="dropdown menu-nav">
+          <button class="dropbtn botao-menu">MENU</button>
+          <div class="dropdown-content menu">
+            <a href="#">Anunciar Vagas</a>
+            <a href="#">Cadastrar Currículo</a>
+            <a href="#">Sobre Nós</a>
+          </div>
+        </div>
+        
+          <button class="botao">Empresa</button>
+          <button class="botao">Candidato</button>
+        
+      </div>
+
+      
+    </header>
+    
+      <div class="principal">
+        <h3>Oportunidades que transformam seu futuro</h3>
+      </div>
+      <main>
+      <section class="offers-section">
+        <h2>Ofertas de Estágio</h2>
+                <div class="offers-grid" id="offers-grid">
+                    <!-- Cards serão inseridos aqui dinamicamente -->
+                </div>
+        </section>
+    </main>
+    <footer>
+      <p>&copy; 2024 EstudantePro. Todos os direitos reservados.</p>
+    </footer>
+    
+    
+</div>
+<div id="modal" class="modal">
+    <div class="modal-content">
+        <span class="close-button" onclick="closeModal()">&times;</span>
+        <h3 id="modal-title"></h3>
+        <p><strong>Bolsa:</strong> <span id="modal-bolsa"></span></p>
+        <p><strong>Horário:</strong> <span id="modal-horario"></span></p>
+        <p><strong>Local:</strong> <span id="modal-local"></span></p>
+        <p><strong>Curso:</strong> <span id="modal-curso"></span></p>
+        <p><strong>Principais Responsabilidades:</strong> <span id="modal-responsabilidades"></span></p>
+        <p><strong>Requisitos:</strong> <span id="modal-requisitos"></span></p>
+    </div>
+</div>
+
+      <script src="app.js"></script>
+  </body>
+</html>
